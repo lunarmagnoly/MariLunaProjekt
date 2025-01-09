@@ -1,3 +1,9 @@
 1. Mis on projekti eesmärk?
+Projekti eesmärk on määratleda, mida projektiga saavutatakse. Näiteks:
+Konkreetse tarkvaralahenduse väljatöötamine.
+Eksisteeriva süsteemi täiustamine.
+Konkreetse probleemi lahendamine tõhusama meetodiga.
+Projekti eesmärgi selgus aitab kõigil tiimiliikmetel töötada ühes suunas.
+
 2. Mis tööriistu kasutate plaani tegemiseks? 
 3. Kuidas tiimiliikmed suhtlevad omavahel?

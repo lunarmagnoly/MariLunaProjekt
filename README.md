@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/84c23b84-c036-45dd-97f2-4b1a2a1f2846)
 # TA GIT üesanded
 <a name="readme-top"></a>
 ## TODO list - mida projektis teha

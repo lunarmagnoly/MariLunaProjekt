@@ -3,3 +3,4 @@ Süsteem, mis jälgib failide muudatusi aja jooksul, võimaldades tagasi minna v
 2. Kuidas hallata koodi? 
 Kasuta versioonihalduse süsteemi (nt Git), et koodi salvestada, muudatusi jälgida, koostööd teha ja probleemide korral tagasi pöörduda.
 3. Kuidas luua harusid? 
+Kasuta käsku git branch <haru_nimi> uue haru loomiseks ja git checkout <haru_nimi> harule lülitumiseks.

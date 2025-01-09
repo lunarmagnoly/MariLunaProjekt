@@ -1,3 +1,4 @@
 Mis on Linux?
+Linux on avatud lähtekoodiga ja tasuta operatsioonisüsteem, mis põhineb Unixil.
 Kuidas installida tarkvara Linuxis?
 Kuidas kasutada terminali Linuxis?

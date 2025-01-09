@@ -1,4 +1,25 @@
 Mis on Linux?
 Linux on avatud lähtekoodiga ja tasuta operatsioonisüsteem, mis põhineb Unixil.
 Kuidas installida tarkvara Linuxis?
+Через пакетные менеджеры:
+Debian/Ubuntu:
+bash
+Копировать код
+sudo apt update
+sudo apt install [имя_пакета]
+Fedora:
+bash
+Копировать код
+sudo dnf install [имя_пакета]
+Arch Linux:
+bash
+Копировать код
+sudo pacman -S [имя_пакета]
+Flatpak/Snap/AppImage (универсальные форматы).
+Сборка из исходного кода:
+bash
+Копировать код
+./configure
+make
+sudo make install
 Kuidas kasutada terminali Linuxis?

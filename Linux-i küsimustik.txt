@@ -3,3 +3,4 @@ Linux on avatud lähtekoodiga operatsioonisüsteemi kernel, millest on loodud pa
 Kuidas installida tarkvara Linuxis?
  Kasutades paketihaldurit (nt apt Ubuntus/Debianis, dnf/yum Fedoras), näiteks: sudo apt install <paketi_nimi> või sudo dnf install <paketi_nimi>.
 Kuidas kasutada terminali Linuxis?
+Terminal on tekstipõhine liides, millega saab süsteemiga suhelda, näiteks käskudega: ls (loetleb faile), cd (muudab kataloogi), mkdir (loob kataloogi)

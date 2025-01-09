@@ -2,9 +2,9 @@
 # TA GIT üesanded
 <a name="readme-top"></a>
 ## TODO list - mida projektis teha
-Arvestuseks on vastata küsimustele. Iga lisatud vastus komittida eraldi:
+### Arvestuseks on vastata küsimustele. Iga lisatud vastus komittida eraldi:
 
-* Ava fail Projektijuhtimise Küsimused.txt
+#### Ava fail Projektijuhtimise Küsimused.txt
 * Vasta küsimusele
 * Salvesta faili
 * Git CMD-s kirjuta
@@ -20,7 +20,7 @@ Arvestuseks on vastata küsimustele. Iga lisatud vastus komittida eraldi:
   ```
   git push
   ```
-* Ava fail Linux-i küsimustik.txt
+#### Ava fail Linux-i küsimustik.txt
 * Vasta küsimusele
 * Salvesta faili
 * Git CMD-s kirjuta
@@ -36,7 +36,7 @@ Arvestuseks on vastata küsimustele. Iga lisatud vastus komittida eraldi:
   ```
   git push
   ```
-* Ava fail Versioonihaldussüsteemi.txt
+#### Ava fail Versioonihaldussüsteemi.txt
 * Vasta küsimusele
 * Salvesta faili
 * Git CMD-s kirjuta

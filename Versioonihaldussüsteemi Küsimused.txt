@@ -1,4 +1,5 @@
 1. Mis on versioonihaldus? 
 Süsteem, mis jälgib failide muudatusi aja jooksul, võimaldades tagasi minna varasematesse versioonidesse
 2. Kuidas hallata koodi? 
+Kasuta versioonihalduse süsteemi (nt Git), et koodi salvestada, muudatusi jälgida, koostööd teha ja probleemide korral tagasi pöörduda.
 3. Kuidas luua harusid? 

@@ -29,3 +29,33 @@ bash
 git pull
 
 3. Kuidas luua harusid? 
+Harud võimaldavad arendada projekti erinevaid osi paralleelselt, ilma et peaharu (main) kohe muutuks. Haru loomine ja haldamine Gitis:
+
+Loo uus haru:
+bash
+Копировать код
+git branch [haru nimi]
+Näiteks:
+bash
+Копировать код
+git branch uus-funktsioon
+Mine harule üle:
+bash
+Копировать код
+git checkout [haru nimi]
+või kombineeritud:
+bash
+Копировать код
+git checkout -b [haru nimi]
+Sulata haru peaharusse (merge): Mine tagasi peaharule:
+bash
+Копировать код
+git checkout main
+Ja ühenda haru:
+bash
+Копировать код
+git merge [haru nimi]
+Kustuta haru (vajadusel):
+bash
+Копировать код
+git branch -d [haru nimi]

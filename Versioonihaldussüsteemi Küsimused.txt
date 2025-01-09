@@ -1,3 +1,4 @@
 1. Mis on versioonihaldus? 
+Süsteem, mis jälgib failide muudatusi aja jooksul, võimaldades tagasi minna varasematesse versioonidesse
 2. Kuidas hallata koodi? 
 3. Kuidas luua harusid? 

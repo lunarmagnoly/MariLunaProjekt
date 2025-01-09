@@ -5,4 +5,27 @@ Salvestada muudatuste ajalugu.
 Töödelda sama projekti erinevaid versioone paralleelselt.
 Tagasi kerida vanema versiooni juurde, kui midagi läheb valesti. Näiteks populaarsed versioonihaldustööriistad on Git, Subversion (SVN) ja Mercurial.
 2. Kuidas hallata koodi? 
+Koodi haldamiseks kasutatakse versioonihaldustööriistu, näiteks Git. Põhiprintsiibid:
+
+Loo repositoorium:
+bash
+Копировать код
+git init
+Lisa failid jälgimise alla:
+bash
+Копировать код
+git add [failinimi]
+Loo commit (salvesta muudatused):
+bash
+Копировать код
+git commit -m "Muudatuse kirjeldus"
+Push (laadi kood kaug-reposse):
+bash
+Копировать код
+git push origin [haru nimi]
+Pull (tõmba värskeim kood):
+bash
+Копировать код
+git pull
+
 3. Kuidas luua harusid? 

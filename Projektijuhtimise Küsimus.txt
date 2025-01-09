@@ -13,3 +13,10 @@ Google Docs/Sheets: Koostööks dokumentide ja plaanide loomisel.
 Gantt chart (nt TeamGantt): Ajaplaanide visualiseerimiseks.
 
 3. Kuidas tiimiliikmed suhtlevad omavahel?
+Tiimiliikmed suhtlevad omavahel erinevate kanalite kaudu:
+
+Reaalajas suhtlus: Slack, Microsoft Teams, või Discord.
+Videokoosolekud: Zoom, Google Meet, või Microsoft Teams.
+E-kirjad: Ametlikuma suhtluse jaoks.
+Dokumendid ja kommentaarid: Google Drive või muud koostööplatvormid.
+Regulaarsed koosolekud ja stand-up’id tagavad pideva infovahetuse.

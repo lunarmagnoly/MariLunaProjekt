@@ -3,7 +3,7 @@
 <a name="readme-top"></a>
 ## TODO list - mida projektis teha
 ### Arvestuseks on vastata küsimustele. Iga lisatud vastus komittida eraldi:
-
+## NB! Tee uus branch ```git branch nimi``` ```git checkout nimi```
 #### Ava fail Projektijuhtimise Küsimused.txt
 * Vasta küsimusele
 * Salvesta faili

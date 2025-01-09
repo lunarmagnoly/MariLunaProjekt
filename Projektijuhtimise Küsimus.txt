@@ -1,4 +1,5 @@
 1. Mis on projekti eesmärk?
 Probleemi lahendamine või väärtuse loomine konkreetse tulemuseni jõudmiseks.
 2. Mis tööriistu kasutate plaani tegemiseks? 
+ Projektijuhtimistarkvara (nt Trello, Jira), kalendrid, ühised dokumendid, diagrammid.
 3. Kuidas tiimiliikmed suhtlevad omavahel?

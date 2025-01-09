@@ -6,4 +6,10 @@ Konkreetse probleemi lahendamine tõhusama meetodiga.
 Projekti eesmärgi selgus aitab kõigil tiimiliikmetel töötada ühes suunas.
 
 2. Mis tööriistu kasutate plaani tegemiseks? 
+Planeerimiseks kasutatakse sageli järgmisi tööriistu:
+Trello või Jira: Ülesannete jaotamiseks ja jälgimiseks.
+Microsoft Project või Asana: Tähtaegade ja ajagraafikute haldamiseks.
+Google Docs/Sheets: Koostööks dokumentide ja plaanide loomisel.
+Gantt chart (nt TeamGantt): Ajaplaanide visualiseerimiseks.
+
 3. Kuidas tiimiliikmed suhtlevad omavahel?

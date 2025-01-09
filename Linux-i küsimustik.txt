@@ -1,3 +1,4 @@
 Mis on Linux?
+Linux on avatud lähtekoodiga operatsioonisüsteemi kernel, millest on loodud palju erinevaid distributsioone, nagu Ubuntu, Debian, Fedora.
 Kuidas installida tarkvara Linuxis?
 Kuidas kasutada terminali Linuxis?

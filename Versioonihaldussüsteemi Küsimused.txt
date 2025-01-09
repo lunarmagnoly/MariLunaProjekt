@@ -1,3 +1,8 @@
 1. Mis on versioonihaldus? 
+Versioonihaldus on süsteem, mis jälgib ja haldab koodi või failide muudatusi aja jooksul. See võimaldab:
+
+Salvestada muudatuste ajalugu.
+Töödelda sama projekti erinevaid versioone paralleelselt.
+Tagasi kerida vanema versiooni juurde, kui midagi läheb valesti. Näiteks populaarsed versioonihaldustööriistad on Git, Subversion (SVN) ja Mercurial.
 2. Kuidas hallata koodi? 
 3. Kuidas luua harusid? 

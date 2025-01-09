@@ -1,4 +1,5 @@
 Mis on Linux?
 Linux on avatud lähtekoodiga operatsioonisüsteemi kernel, millest on loodud palju erinevaid distributsioone, nagu Ubuntu, Debian, Fedora.
 Kuidas installida tarkvara Linuxis?
+ Kasutades paketihaldurit (nt apt Ubuntus/Debianis, dnf/yum Fedoras), näiteks: sudo apt install <paketi_nimi> või sudo dnf install <paketi_nimi>.
 Kuidas kasutada terminali Linuxis?
